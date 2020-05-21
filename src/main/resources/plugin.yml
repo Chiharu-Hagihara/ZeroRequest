@@ -1,0 +1,4 @@
+name: ZeroRequest
+version: ${project.version}
+main: chiharu.hagihara.zerorequest.ZeroRequest
+api-version: 1.13
